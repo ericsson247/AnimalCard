@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body{
+  background-color: black;
+}
+
+.cardContainer{
+  margin: 30px auto;
+  width: 30%;
+  background-color: white;
+  padding: 15px;
+}
+
+.border{
+  border: 1px solid gray;
+}
+
+.header{
+  padding-top: 20px;
+  text-align: left;
+}
+.upperCard {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.tigerImage{
+  width: 100%;
+  margin: 10px auto;
+}
+
+
+.description{
+  font-style: italic;
+  font-size: 14px;
+  padding: 0 15px 15px 0px;
+}
+
+.lowerCard{
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 20px;
+}
+
+.animalFeatures{
+  list-style-type: none;
+  margin: 20px;
+}
+
+.animalFeatures li{
+  margin: 0 -20px;
+  font-weight: bolder;
+}
+
+.values {
+  font-weight: normal;
+}
+
